@@ -22,6 +22,7 @@ var food = fastFood.concat(healthyFood);
 
 console.log(food); // [ 'french fries', 'sandwich', 'pizza', 'avocado', 'fish', 'mango' ]
 
+
 /**
 * Question 6 - create a 2 dimensions array that is 2-by-4. Grab some values out of this array to create a sentence using concatenation.
 * Initialise the variable `science marks` to a 2-Dimensional array containing the values below:
@@ -49,3 +50,4 @@ console.table(scienceMarks);
 
 var sentence = `${nameColumn1} got ${markColumn2} and ${bonusColumn3}, which got her an ${letterGradecolumn4} on her science test.`;
 console.log(sentence);
+
