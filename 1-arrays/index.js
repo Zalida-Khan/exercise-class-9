@@ -19,6 +19,7 @@
  * then add a single line comment to show what is displayed in the terminal
  */
 
+
 var classroomSupplies = [];
 
 classroomSupplies[0] = "pen";
@@ -41,6 +42,7 @@ console.log(classroomSupplies); // [ 'computer', 'desk', 'paper', 'pen' ]
  * console log out travel places
  * add a single line comment as to what the output will be
  */
+
 
 var travelPlaces = [];
 
@@ -84,6 +86,7 @@ console.log(bakingRecipies); // [ 'brownies', 'cookies', 'cakes' ]
  * I am taking _MDIA 1106_, _Design_ that is worth _3.0_ credits.
  * 
  */
+
 
 var schedule = [
     ["COMP 1170", "Fundamentals Frontend Web Tech", "3.0"],
